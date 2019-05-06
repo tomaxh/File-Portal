@@ -9,4 +9,4 @@ Simple file portal that allows download and upload functions
 
 4. Files are stored as their original names. Users are able to see both original names and modified names.
 
-5. The download files are named as: `orininalFileName_modifiedFileName_downloadTime.extension`
+5. Left click the filename to download the file. The download files are named as: `orininalFileName_modifiedFileName_downloadTime.extension`
