@@ -46,7 +46,7 @@ function checkFileType($file, $type){
 
 //check file size
 function checkFileSize($file){
-  return $file['size'] <= 1048576;
+  return  ($file['size'] <= 1048576) && ($file['size'] >= 1000);
 }
 
 //If modified name is avaliable, store the modified name in the cookie with key=original filename
