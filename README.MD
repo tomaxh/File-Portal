@@ -1,11 +1,11 @@
 # File-Portal
-Simple file portal that allows download and upload functions
+Simple file portal that allows download and upload functions in PHP
 
 1. Uses XAMPP Apache for hosting PHP with file path on: `C:\xampp\htdocs\tuts\`;
 
-2. Upload file type limited to `js,html,css,php`; `1kb` < `size` < `1mb`.
+2. Upload file type & size limited to `js,html,css,php`; `1kb` < `size` < `1mb`.
 
-3. Alternate name input field is provided, users are able to input new name.
+3. Alternate name input field is provided, users are able to change file name before uploading.
 
 4. Files are stored as their original names. Users are able to see both original names and modified names.
 
